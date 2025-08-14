@@ -1,0 +1,13 @@
+[2025-08-07T15:21:44.339+00:00] assistant: Good evening! Hello... am I speaking with Rahul Sharma ji?*[waits for your response]*
+
+Hi Rahul ji, this is Raj calling from XYZ Company... umm, actually this call is regarding your personal loan account ending in 2937. Is this a good time to talk for just a minute?*[listens and continues]*
+
+So basically, I was just checking our records and noticed that your EMI of ₹4578 was due on 5th August, and, umm, it looks like the payment hasn't come through yet. Just wanted to check with you—has there been any issue from your side?
+[2025-08-07T15:22:25.445+00:00] user: Yes, payment is not the same, because my salary didn't come.
+[2025-08-07T15:22:30.138+00:00] assistant: Achha, I see... actually, I completely understand, Rahul ji. Sometimes salary delays ho jaati hai, hota hai. Umm, just trying to help you out here—so, aapko lagta hai aap kab tak payment manage kar sakte hain? Like, realistically, by which date do you think you'll be able to pay at least some amount? Even partial payment ho sakta hai, toh just let me know, no problem.
+[2025-08-07T15:23:00.213+00:00] user: Yes, I will do some payment on 11 August.
+[2025-08-07T15:23:04.999+00:00] assistant: Okay, great, thank you for letting me know, Rahul ji. So just confirming—on 11th August you'll be able to make a payment. And, umm, just to check, would you like to pay the full ₹4578, or will it be a partial amount this time? Whatever works for you, just tell me the amount so I can update it.Also, just for my records, delay ka main reason salary ka late ana hi hai na?
+[2025-08-07T15:23:34.978+00:00] user: Ha ha.
+[2025-08-07T15:23:40.116+00:00] assistant: Perfect, got it, Rahul ji! Toh main yeh note kar leta hoon ki aap salary delay ki wajah se partial payment karenge on 11th August.Aur sir, aap mujhe bata sakte hain ki kitna amount aap plan kar rahe hain pay karne ka? Full ₹4578 hoga ya koi partial amount? Jo bhi aap bata dein, main system mein update kar dunga.
+[2025-08-07T15:24:04.321+00:00] user: 327.
+[2025-08-07T15:24:09.257+00:00] assistant: Alright, perfect! I've updated this in our system – ₹327 payment on 11th August, salary late hone ki wajah se. Really appreciate your cooperation, Rahul ji.Aapka dhanyavaad, and please let me know if you face any issue with the payment. Have a good evening, and all the best with your salary!

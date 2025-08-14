@@ -1,0 +1,32 @@
+[2025-08-07T10:07:31.987+00:00] assistant: Hello! I am from XYZ loan company. This call is regarding the Loan which you have taken. Aapka pura naam kya hai aur date of birth ya account number ke last 4 digits bata dijiye?
+[2025-08-07T10:07:49.772+00:00] user: my name is sachi my loan my last 5 number 56034
+[2025-08-07T10:07:54.170+00:00] assistant: Aapke details match nahi kar rahe hain.
+[2025-08-07T10:07:57.171+00:00] user: it is
+[2025-08-07T10:07:58.475+00:00] user: in hindi
+[2025-08-07T10:07:59.829+00:00] user: because it doesn't matter
+[2025-08-07T10:08:18.809+00:00] assistant: Sirf confirm karne ke liye, main verify kar rahi hoon ki humare records ke mutabik jo details hain:
+
+- Borrower Name: Rahul Sharma
+- Loan Account ID: LNX-8392937
+
+Agar yeh sahi hai, toh mujhe batayein, nahi toh main aapki aur madad kar sakti hoon.
+[2025-08-07T10:08:21.806+00:00] user: Länder
+[2025-08-07T10:08:23.965+00:00] user: hamae boyu
+[2025-08-07T10:08:27.819+00:00] user: coffee
+[2025-08-07T10:08:37.490+00:00] assistant: Rahul ji, aapka personal loan mein ₹4578 due hai jo 5 August ko due tha. Aapka last payment 10 July ko tha. Aap kab tak is amount ko pay kar sakte hain?
+[2025-08-07T10:08:49.452+00:00] user: i will pay this amount
+[2025-08-07T10:08:50.522+00:00] user: for so
+[2025-08-07T10:08:52.741+00:00] user: i use it and subscribe
+[2025-08-07T10:08:54.307+00:00] user: um
+[2025-08-07T10:08:58.646+00:00] assistant: Aap kis date ko payment karenge? Aur kitna amount aap us din pay karenge? Payment delay ka reason kya tha?
+[2025-08-07T10:09:08.258+00:00] user: alurgh
+[2025-08-07T10:09:13.800+00:00] user: in hindi kari zan tha ki meri salary na hi hai tha and mein paye kura dhunga perso
+[2025-08-07T10:09:19.687+00:00] assistant: Theek hai, main samajh gaya.
+[2025-08-07T10:09:22.630+00:00] user: thank you
+[2025-08-07T10:09:23.981+00:00] user: sorry
+[2025-08-07T10:09:25.646+00:00] user: instagram
+[2025-08-07T10:09:29.114+00:00] assistant: Theek hai.
+[2025-08-07T10:09:30.573+00:00] user: times
+[2025-08-07T10:09:34.870+00:00] assistant: Rahul ji, please clarify:
+
+1. Aap kis date ko payment karenge?

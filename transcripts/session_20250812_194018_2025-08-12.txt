@@ -1,0 +1,5 @@
+[2025-08-12T14:10:21.020+00:00] assistant: Namaste ji, main Raj bol raha hoon XYZ Company se. Kripya apna borrower ID batayiye.
+[2025-08-12T14:10:33.677+00:00] user: मेरा बरो रेडी है
+[2025-08-12T14:10:34.357+00:00] assistant: Aapne LPU 7 8 7 8 bola, sahi hai?
+[2025-08-12T14:10:47.378+00:00] user: नहीं नहीं मैं बोल रहा हूँ कि कल केयू 7878
+[2025-08-12T14:10:47.513+00:00] assistant: Achha, aapne L K U 7 8 7 8 bola, sahi hai?

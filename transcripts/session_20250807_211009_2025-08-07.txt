@@ -1,0 +1,12 @@
+[2025-08-07T15:40:12.197+00:00] assistant: Hello!
+[2025-08-07T15:40:15.263+00:00] user: Hello?
+[2025-08-07T15:40:18.315+00:00] assistant: Hello!
+[2025-08-07T15:40:21.012+00:00] assistant: Am I speaking with Rahul Sharma?
+[2025-08-07T15:40:25.378+00:00] user: ੈ, ੈ, ੈ, ੈ, ੋ ੈ, ੋ ੈ ੈ,
+[2025-08-07T15:40:33.413+00:00] assistant: It seems like there's some confusion in your response. Can you please confirm if I am speaking with Rahul Sharma?
+[2025-08-07T15:40:40.410+00:00] user: Yes, yes, yes, yes, yes.
+[2025-08-07T15:40:45.755+00:00] assistant: Hi Rahul, this is Raj from XYZ Company. This is about your personal loan EMI of ₹4578 that was due on August 5th. When can you make this payment?
+[2025-08-07T15:41:00.222+00:00] user: Yes, I will do the payment.
+[2025-08-07T15:41:06.073+00:00] assistant: I understand, Rahul. Do you have a date in mind by when you can make the payment?
+[2025-08-07T15:41:16.978+00:00] user: Yes, I do not have money. How do I do payment?
+[2025-08-07T15:41:21.478+00:00] assistant: I understand it's difficult. But even a smaller amount helps. What's the maximum you can arrange? Maybe you could borrow from someone to help with the payment?

@@ -1,0 +1,20 @@
+[2025-08-07T14:20:50.084+00:00] assistant: Hello Rahul Sharma, I am from xyz company.
+[2025-08-07T14:20:53.078+00:00] user: hello rahul
+[2025-08-07T14:20:58.963+00:00] assistant: Yeh call aapke loan ya EMI due ke baare mein hai.
+[2025-08-07T14:21:02.215+00:00] user: okay
+[2025-08-07T14:21:12.586+00:00] assistant: Rahul Sharma ji, aapka personal loan mein ₹4578 due hai jo 5 August 2025 ko due tha. Aapka last payment 10 July 2024 ko hua tha.
+[2025-08-07T14:21:23.627+00:00] user: okay
+[2025-08-07T14:21:24.560+00:00] user: but i get
+[2025-08-07T14:21:34.665+00:00] assistant: Aapko samajh aa gaya, thank you! Please bataiye, aap payment kab kar paenge? Jaldi se payment karna aapke credit score ke liye acha hoga.
+[2025-08-07T14:21:44.895+00:00] user: but
+[2025-08-07T14:21:46.295+00:00] user: kub karna sahi hooga
+[2025-08-07T14:21:57.924+00:00] assistant: Rahul ji, jitni jaldi aap payment karenge, utna hi aapke credit score aur loan record ke liye acha rahega. Aap mujhe bata sakte hain ki kis date ko aap payment karenge?
+[2025-08-07T14:22:05.997+00:00] user: मैं कल कर दूँगा
+[2025-08-07T14:22:09.984+00:00] assistant: Thank you, Rahul ji. Please confirm:
+
+1. Aap kis date ko exact payment karenge? (Kal ka date confirm kar dijiyega.)
+2. Kitna amount aap kal pay karenge?3. Payment delay ka reason kya tha?Ye details zaroori hain, kindly bata dijiyega.
+[2025-08-07T14:22:38.127+00:00] user: मैं 11 अगस्ट को पे कर दूंगा एंड मेरा जो लोन रिपे एमांट होगा दोजार चाट्सो बच्चिस रुपिया एंड मैं इसलिया पे नहीं किया थे कुणि सेलरी नहीं आया था
+[2025-08-07T14:22:47.106+00:00] assistant: Okay. We have noted your promise to pay. Please try to pay sooner. ThanksTheek hai Rahul ji. Humne ₹2445 ka commitment 11 August ke liye note kar liya hai. Payment delay ka reason “salary nahi aaya tha” bhi record ho gaya hai.Aap timely payment karenge toh aapke credit score par koi problem nahi hogi. Dhanyawad, agar koi aur query ho toh bataiyega. 
+
+Namaste!

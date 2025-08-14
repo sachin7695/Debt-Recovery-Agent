@@ -1,0 +1,9 @@
+{
+  "borrower_id": "ABC",
+  "loan_account_id": "LNX-8392937",
+  "ptp_date": "2025-08-20",
+  "ptp_amount": 1500,
+  "delay_reason": "",
+  "negotiation_result": "Negotiated from 100 to 1500",
+  "amount_due_at_ptp": 4578
+}

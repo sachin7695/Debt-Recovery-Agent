@@ -1,0 +1,12 @@
+[2025-08-07T10:18:45.723+00:00] assistant: Hello! I am from XYZ Loan Company. This call is regarding the Loan which you have taken. Aapka pura naam kya hai aur date of birth ya account number ke last 4 digits bata dijiye?
+[2025-08-07T10:18:59.052+00:00] user: merenam rahulim rilak
+[2025-08-07T10:19:02.116+00:00] user: account ke last chart number 14036
+[2025-08-07T10:19:04.858+00:00] user: in hindi
+[2025-08-07T10:19:08.732+00:00] user: is
+[2025-08-07T10:19:12.509+00:00] user: sounds
+[2025-08-07T10:19:14.243+00:00] user: yeah
+[2025-08-07T10:19:17.082+00:00] user: regular
+[2025-08-07T10:19:22.759+00:00] assistant: Rahul ji, mujhe lagta hai kisi misunderstanding ho gayi hai. Account ke last 4 digits hona chahiye tha, aapne 5 digits diye hain.
+[2025-08-07T10:19:30.524+00:00] user: in hindi
+[2025-08-07T10:19:35.752+00:00] user: okay
+[2025-08-07T10:19:36.549+00:00] user: you

@@ -1,0 +1,7 @@
+[2025-08-07T10:03:42.400+00:00] assistant: Hello! I am from XYZ Company.
+[2025-08-07T10:03:49.464+00:00] user: it seks技
+[2025-08-07T10:03:51.286+00:00] user: is
+[2025-08-07T10:03:53.911+00:00] assistant: Hello! I am from XYZ Loan Company.
+[2025-08-07T10:04:05.248+00:00] user: in hindi
+[2025-08-07T10:04:07.486+00:00] user: is
+[2025-08-07T10:04:08.415+00:00] user: engag

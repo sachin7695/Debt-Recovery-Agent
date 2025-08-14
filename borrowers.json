@@ -1,0 +1,22 @@
+{
+  "ABC": {
+    "borrower_id": "LKU7878",
+    "borrower_name": "Rahul Sharma",
+    "amount_due": 4578,
+    "last_payment_date": "2025-07-10",
+    "emi_due_date": "2025-08-05",
+    "loan_type": "Personal Loan",
+    "overdue_days": 30,
+    "loan_account_id": "LNX-8392937"
+  },
+  "XYZ": {
+    "borrower_id": "LMN1234",
+    "borrower_name": "Pooja Verma",
+    "amount_due": 9120,
+    "last_payment_date": "2025-07-28",
+    "emi_due_date": "2025-08-10",
+    "loan_type": "Two Wheeler Loan",
+    "overdue_days": 10,
+    "loan_account_id": "TW-551299"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "borrower_id": "LNX-8392937",
+  "ptp_date": "2025-08-31",
+  "ptp_amount": 1500,
+  "delay_reason": "Salary delay",
+  "negotiation_result": "Promised Rs 1500 by 31 August after negotiation",
+  "percentage_of_due": 32.77
+}

@@ -1,0 +1,8 @@
+{
+  "borrower_id": "LNX-8392937",
+  "ptp_date": "2024-08-01",
+  "ptp_amount": 1000,
+  "delay_reason": "Salary delay, will pay after receiving salary at month end",
+  "negotiation_result": "Borrower confirmed one thousand payment after salary, month end",
+  "percentage_of_due": 21.84
+}

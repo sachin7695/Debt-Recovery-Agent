@@ -1,0 +1,15 @@
+[2025-08-07T14:03:47.980+00:00] assistant: Hello! I am from XYZ loan company. This call is regarding the Loan which you have taken.Hello Rahul Sharma, I am from xyz company.
+[2025-08-07T14:04:00.704+00:00] user: hello
+[2025-08-07T14:04:07.322+00:00] assistant: Yeh call aapke loan ya EMI due ke baare mein hai. Rahul ji, aapka personal loan mein ₹4578 due hai jo 5 August ko due tha. Aapka last payment 10 July ko hua tha.
+[2025-08-07T14:04:21.397+00:00] user: हाँ वो पैसा नहीं था तो इसलिए मैंने किया नहीं हूँ
+[2025-08-07T14:04:24.923+00:00] assistant: Koi baat nahi, Rahul ji. Hum samajh sakte hain ki kabhi-kabhi mushkil hoti hai. Aap kis date ko payment karenge?
+[2025-08-07T14:04:37.687+00:00] user: मैं कर दूंगा परसो
+[2025-08-07T14:04:45.825+00:00] assistant: Ji bilkul, aap 2 din ke baad payment kar rahe hain. Kitna amount aap us din pay karenge?
+[2025-08-07T14:04:56.323+00:00] user: 200825 rupiah
+[2025-08-07T14:05:04.582+00:00] assistant: Rahul ji, aap thoda clarify kar dijiyega. Lagta hai amount galat enter ho gaya hai.  Aapka due amount ₹4578 hai.  Kitna amount aap pay karenge us din?
+[2025-08-07T14:05:23.863+00:00] user: If you can say it or not, you can't say it or say it or not
+[2025-08-07T14:05:34.520+00:00] assistant: Rahul ji, hum chahte hain ki aap specific amount aur date confirm kar dein taaki hum system mein note kar saken.  Aap kis date ko kitna amount pay karenge?
+[2025-08-07T14:05:44.240+00:00] user: मैं 11 आगस्ट को पे करूगा 2425 रुपया
+[2025-08-07T14:05:48.804+00:00] assistant: Theek hai, aur payment delay ka reason kya tha?
+[2025-08-07T14:05:57.348+00:00] user: इमिन डिले का रीजन था कि मैरा सालरी नहीं आया था
+[2025-08-07T14:06:13.101+00:00] assistant: Okay. We have noted your promise to pay ₹2425 by 2025-08-11. Please try to pay sooner.Theek hai. Humne ₹2425 ka commitment 11 August ke liye note kar liya hai.  Agar kisi bhi tarah ka problem hota hai, to humein zaroor batayein.  Is payment ka timely karna aapke CIBIL score ko positive banaye rakhega aur aapko future mein loans lene mein aasani hogi.Thank you, Rahul ji. Agar aur koi sawaal ho, to aap humein bata sakte hain.

@@ -1,0 +1,7 @@
+[2025-08-07T15:33:48.295+00:00] assistant: Hello! Am I speaking with Rahul Sharma?
+[2025-08-07T15:33:54.119+00:00] user: Yes, I am Rahul Sharma.
+[2025-08-07T15:34:00.800+00:00] assistant: Hi Rahul, this is Raj from XYZ Company. This call is regarding your Personal Loan EMI payment of ₹4578 which was due on 2025-08-05. Just wanted to check when you'll be able to make this payment?
+[2025-08-07T15:34:18.565+00:00] user: I have no money.
+[2025-08-07T15:34:34.293+00:00] assistant: I understand your situation, Rahul, but even a partial payment of ₹1373 (that’s about 30% of your ₹4578 due) would help your account and reduce further interest. Can you try arranging this amount—maybe by borrowing from family or friends? Every day of delay adds ₹9 in interest and your credit score is affected daily. Even a partial payment now is much better than waiting. What is the maximum amount you can arrange this week?
+[2025-08-07T15:34:58.854+00:00] user: 2000
+[2025-08-07T15:35:09.277+00:00] assistant: That’s a good start, Rahul—₹2000 is about 44% of your due amount. If you can stretch it a bit more to ₹2747 (that’s 60% of your total due), it would significantly improve your account standing and reduce future penalties.Are you able to arrange ₹2747? If not, confirming ₹2000 is still helpful—when can you make this payment?

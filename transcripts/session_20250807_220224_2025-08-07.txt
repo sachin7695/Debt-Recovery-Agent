@@ -1,0 +1,5 @@
+[2025-08-07T16:32:27.721+00:00] assistant: Hello! Am I speaking with Rahul Sharma?
+[2025-08-07T16:32:34.243+00:00] user: Yes, राहुल शर्मा बोल रहा हूँ मैं.
+[2025-08-07T16:32:41.382+00:00] assistant: Ji Rahul ji, good evening... mei Raj, XYZ Company se bol raha hun. Actually baat yeh hai ki aapka personal loan EMI... around saade chaar hazaar ka payment jo 5 August ko due tha. Main samajhta hun thoda tight chal raha hoga... chaliye dekhte hain kya kar sakte hain, theek hai?Toh... kitna ho payega?
+[2025-08-07T16:33:04.963+00:00] user: अभी तो पैसा नहीं है मेरे पास.
+[2025-08-07T16:33:11.072+00:00] assistant: Hmm, samajh raha hun... Dekhiye, thoda sa payment se bhi extra charges ruk jaate hain. Bina tension ke kitna maximum ho sakta hai? Matlab, chhota amount bhi chalega abhi, lekin kuch toh try kijiye. Sochiye, main hun...

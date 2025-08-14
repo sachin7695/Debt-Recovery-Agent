@@ -1,0 +1,13 @@
+[2025-08-07T13:50:00.431+00:00] assistant: Hello! I am from XYZ loan company. This call is regarding the Loan which you have taken. Aapka pura naam kya hai aur date of birth ya account number ke last 4 digits bata dijiye?
+[2025-08-07T13:50:18.244+00:00] user: मेरा नम सच्छी ने मेरा लास्ट चार नमबर है 4036
+[2025-08-07T13:50:23.138+00:00] assistant: धन्यवाद, Sachi ji! 
+
+Rahul ji, aapka personal loan mein ₹4578 due hai jo 5 August ko due tha. Aapka last payment 10 July ko tha. Aap payment kab tak karenge?
+[2025-08-07T13:50:40.024+00:00] user: मैं payment कर दूंगा परसो
+[2025-08-07T13:50:47.412+00:00] assistant: Sachi ji, mujhe kuch specific details chahiye honge:
+
+1. Aap kis date ko payment karenge? 2. Kitna amount aap us din pay karenge? 3. Payment delay ka reason kya tha? In details ko confirm karke hum aapka commitment record kar sakte hain.
+[2025-08-07T13:51:07.984+00:00] user: I will do 24 ways
+[2025-08-07T13:51:09.931+00:00] user: 4,225 rupiah
+[2025-08-07T13:51:14.413+00:00] assistant: Thank you for confirming. Could you please tell me the reason for the delay in payment?
+[2025-08-07T13:51:26.817+00:00] user: salary आया नही था

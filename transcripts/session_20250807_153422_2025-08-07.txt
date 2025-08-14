@@ -1,0 +1,17 @@
+[2025-08-07T10:04:24.064+00:00] assistant: Hello!
+[2025-08-07T10:04:28.273+00:00] user: nar alt
+[2025-08-07T10:04:28.887+00:00] user: so i know
+[2025-08-07T10:04:30.150+00:00] user: is a good example.
+[2025-08-07T10:04:31.451+00:00] user: that's true
+[2025-08-07T10:04:32.540+00:00] user: hello
+[2025-08-07T10:04:32.940+00:00] user: in hindi
+[2025-08-07T10:04:35.178+00:00] user: unhappy
+[2025-08-07T10:04:37.788+00:00] user: hello
+[2025-08-07T10:04:40.224+00:00] assistant: Hello! i am from XYZ loan comapny.
+[2025-08-07T10:04:44.365+00:00] user: demasiado
+[2025-08-07T10:04:45.858+00:00] user: with the language in hindi
+[2025-08-07T10:04:49.062+00:00] user: talking to me
+[2025-08-07T10:04:50.956+00:00] assistant: Hello!
+[2025-08-07T10:04:52.748+00:00] assistant: i am from XYZ loan comapny.
+[2025-08-07T10:04:54.049+00:00] assistant: This call is regarding the Loan which you have taken.
+[2025-08-07T10:04:55.684+00:00] assistant: Aapka pura naam kya hai aur date of birth ya account number ke last 4 digits bata dijiye?

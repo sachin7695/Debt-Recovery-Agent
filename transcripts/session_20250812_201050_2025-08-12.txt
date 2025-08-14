@@ -1,0 +1,9 @@
+[2025-08-12T14:40:54.934+00:00] assistant: Namaste ji, main Raj bol raha hoon XYZ Company se. Kripya apna borrower ID batayiye.
+[2025-08-12T14:41:09.791+00:00] user: XYZ is my borrow ID.
+[2025-08-12T14:41:09.476+00:00] assistant: Aapne XYZ
+[2025-08-12T14:41:11.311+00:00] assistant: 8 bola,
+[2025-08-12T14:41:12.488+00:00] assistant: sahi hai?
+[2025-08-12T14:41:21.550+00:00] user: No no, I said that XYZ is my borrower ID.
+[2025-08-12T14:41:21.551+00:00] assistant: Got it, XYZ8 is your borrower ID, correct?
+[2025-08-12T14:41:32.068+00:00] user: No, no, XYZ only, not A.
+[2025-08-12T14:41:32.070+00:00] assistant: Thank you for clarifying. You said XYZ, correct?Mujhe maaf kariye, ye ID

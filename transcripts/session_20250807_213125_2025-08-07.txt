@@ -1,0 +1,21 @@
+[2025-08-07T16:01:28.357+00:00] assistant: Hello! Am I speaking with Rahul Sharma?
+[2025-08-07T16:01:33.875+00:00] user: Yes, Sraul Sarma.
+[2025-08-07T16:01:38.237+00:00] assistant: Hi Rahul, good evening... umm, this is Raj calling from XYZ Company. So basically, it's about your personal loan EMI...
+[2025-08-07T16:01:47.921+00:00] user: आप क्या हिंदी में बात कर सकते हों?
+[2025-08-07T16:01:51.758+00:00] assistant: Bilkul Rahul ji, koi dikkat nahi. Main Hindi mein baat kar sakta hoon.Toh actually baat yeh hai, aapka personal loan EMI... around saade chaar hazaar ka payment tha, jo 5 August ko due tha. Main samajhta hoon thoda tight chal raha hoga... chaliye dekhte hain kya kar sakte hain, theek hai?Toh... kitna ho payega?
+[2025-08-07T16:02:17.749+00:00] user: अभी तो पैसा नहीं है मेरे पास
+[2025-08-07T16:02:22.717+00:00] assistant: Hmm, samajh raha hoon Rahul ji... Dekhiye, thoda sa payment se bhi extra charges ruk jaate hain. Bina tension ke, kitna maximum ho sakta hai abhi ke liye?
+[2025-08-07T16:02:36.665+00:00] user: अभी तो नहीं है पैसा सेलरी नहीं आया है
+[2025-08-07T16:02:39.896+00:00] assistant: Achha, salary aani hai... Usually kab aati hai? Month end ya kisi fixed date ko aati hai?
+[2025-08-07T16:02:50.953+00:00] user: हाँ साइद लगबग उसी टाइम आता है थाट्टी फॉस्ट के टाइम
+[2025-08-07T16:02:57.034+00:00] assistant: Samajh gaya Rahul ji, thirty-first ke aas paas aata hai. Theek hai, toh jab salary aa jaye...  kitna comfortable rahega payment karne mein?  Thoda sochiye, main hun...
+[2025-08-07T16:03:09.528+00:00] user: Ég héshar
+[2025-08-07T16:03:14.337+00:00] assistant: Rahul ji, aap thoda phir se bata sakte hain? Shayad aapne kuch alag type ka word likha hai. Aapko Hindi ya Hinglish mein baat karni hai toh bata dijiye, main wahi mein help karunga.
+[2025-08-07T16:03:24.437+00:00] user: Eik aðjar?
+[2025-08-07T16:03:29.434+00:00] assistant: Theek hai, aap ek hazaar bol rahe hain. Dekhiye, appreciate karta hoon, lekin honestly ek hazaar se saade chaar hazaar ka EMI zyada handle nahi hoga. Kam se kam thoda push karke dhai hazaar tak kar sakte hain kya? Ya fir ek hazaar hi fix hai abhi?
+[2025-08-07T16:03:46.334+00:00] user: अभी तो एकाजारी fix है
+[2025-08-07T16:03:51.173+00:00] assistant: Theek hai Rahul ji, ek hazaar... samajh sakta hoon, shayad abhi itna hi possible hai.  Kab tak kar denge payment? Month end salary ke baad, ya uske turant baad?
+[2025-08-07T16:04:02.953+00:00] user: उसके तुरंद बात कर दूँगा
+[2025-08-07T16:04:13.517+00:00] assistant: Theek hai, toh aap thirty-first ke baad, matlab 1 August ya 2 August ke aas paas ek hazaar payment kar denge? Theek samjha main?
+[2025-08-07T16:04:18.159+00:00] user: हाँ हाँ ठीक है
+[2025-08-07T16:04:25.501+00:00] assistant: Great!

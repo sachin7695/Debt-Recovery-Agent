@@ -1,0 +1,13 @@
+[2025-08-12T14:51:47.826+00:00] assistant: Namaste ji, main Raj bol raha hoon XYZ Company se. Kripya apna borrower ID batayiye.
+[2025-08-12T14:51:58.910+00:00] user: xyz
+[2025-08-12T14:51:58.933+00:00] assistant: Aapne XYZ bola, sahi hai?
+[2025-08-12T14:52:10.330+00:00] user: 可以。
+[2025-08-12T14:52:11.253+00:00] assistant: Toh dekhiye, aapka kuch amount abhi due hai aur uski wajah se hum aapse baat kar rahe hain. Aap kitna amount abhi pay kar sakte hain?
+[2025-08-12T14:52:25.411+00:00] user: अभी मैं पैक नहीं कर पाऊंगा।
+[2025-08-12T14:52:25.413+00:00] assistant: Samajh raha hoon, lekin thoda payment karne se extra charges aur stress kam ho jata hai. Aapke hisaab se bina stress ke aap kitna manage kar sakte hain?
+[2025-08-12T14:52:45.550+00:00] user: சாருகிய கர்பங்க உத்தனத்த ஞானையாயசு.
+[2025-08-12T14:52:45.674+00:00] assistant: Appreciate karta hoon aapka cooperate karna, par itne se impact kam hoga jab amount zyada due hai. Kam se kam ek hazaar ka kuch ho paayega?
+[2025-08-12T14:53:01.891+00:00] user: तेरह हजार का हो जाएगा लेकिन अगले महीने होगा।
+[2025-08-12T14:53:01.893+00:00] assistant: Theek hai, agar ek hazaar ka commitment kar dete hain toh bhi achha hai. Aap kaunsi date tak payment kar paayenge agle mahine? Bas ek date confirm kar dijiye.
+[2025-08-12T14:53:20.372+00:00] user: 6th of next month?
+[2025-08-12T14:53:20.571+00:00] assistant: Achha, toh aap 6 tareekh ko ek hazaar ka payment karenge. Main note kar raha hoon. कृपया time pe kar dijiye, bahut shukriya!Great! Note ho gaya hai. Thank you for your time, yeh call ab end karte hain.

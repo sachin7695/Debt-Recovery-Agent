@@ -1,0 +1,10 @@
+[2025-08-07T15:57:11.722+00:00] assistant: Hello!
+[2025-08-07T15:57:14.602+00:00] assistant: Am I speaking with Rahul Sharma?
+[2025-08-07T15:57:17.418+00:00] user: Yes, I am Rahul.
+[2025-08-07T15:57:23.324+00:00] assistant: Hi Rahul, this is Raj from XYZ Company. This is regarding your personal loan EMI of ₹4578 that was due on 2025-08-05. I understand things can be challenging. Let's discuss how we can resolve this.
+[2025-08-07T15:57:40.927+00:00] user: Há, bolí e.
+[2025-08-07T15:57:45.532+00:00] assistant: Achha, theek hai. Ab Hindi mein baat karte hain. 
+
+Rahul ji, main samajhta hun aajkal cheezein thodi tight ho sakti hain. Aapka ₹4578 ka personal loan EMI 2025-08-05 ko due tha. Chaliye solution nikaalte hain—kya aap kuch amount abhi arrange kar sakte hain ya koi plan socha hai?
+[2025-08-07T15:58:13.481+00:00] user: Yes, I will see the salary.
+[2025-08-07T15:58:17.505+00:00] assistant: Okay, let's continue in English.Thank you for letting me know. Once your salary comes in, what amount do you think you can realistically manage as a payment? Even a partial payment now will help reduce charges and your stress. What figure are you comfortable with?

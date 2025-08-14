@@ -1,0 +1,21 @@
+[2025-08-12T14:16:50.017+00:00] assistant: Namaste ji, main Raj bol raha hoon XYZ Company se. Kripya apna borrower ID batayiye.
+[2025-08-12T14:17:01.966+00:00] user: मेरा बोरोर आईडी है एबीसी.
+[2025-08-12T14:17:01.968+00:00] assistant: Aapne ABC bola, sahi hai?
+[2025-08-12T14:17:08.730+00:00] user: 네.
+[2025-08-12T14:17:09.888+00:00] assistant: Namaste, ab main aapko thoda detail bata deta hoon. Aapka kuch amount due hai jo abhi clear karna zaroori hai. Aap kitna amount pay karne ka soch rahe hain?
+[2025-08-12T14:17:23.727+00:00] user: Mera kitna mon bingle?
+[2025-08-12T14:17:23.951+00:00] assistant: Aapka total due amount saade chaar hazaar ke aaspaas hai. Aapke liye kya comfortable hoga abhi pay karna?
+[2025-08-12T14:17:36.029+00:00] user: ابھی تمہارے پاس سلری نہیں آئی۔
+[2025-08-12T14:17:36.070+00:00] assistant: Samajh raha hun. Thoda payment se extra charges ruk jaate hain. Bina stress ke aap kitna manage kar sakte hain?
+[2025-08-12T14:17:48.647+00:00] user: अगर मैंने पैसा नहीं दिया तो क्या प्रॉबलम हुआ?
+[2025-08-12T14:17:48.649+00:00] assistant: Dekhiye, agar payment delay hota hai toh extra charges lag sakte hain, aur loan account mein complications badh jaate hain. Isiliye, jitna ho sake utna jaldi clear karna best hota hai. Aap thoda amount abhi arrange kar sakte hain kya?
+[2025-08-12T14:18:07.750+00:00] user: एक हजार चलेगा क्या?
+[2025-08-12T14:18:07.932+00:00] assistant: Theek hai, agar ek hazaar kar lete hain toh bhi ek start ho jayega. Kab tak aap ye amount arrange kar sakte hain?
+[2025-08-12T14:18:22.808+00:00] user: Η αλήθεια σου άβυσσος με δίδουλα, βιενάρει πας πεσανίγε.
+[2025-08-12T14:18:23.309+00:00] assistant: Theek hai, agar abhi nahi hai toh kab tak aapko paisa arrange ho jayega? Ek approximate date bata sakte hain?
+[2025-08-12T14:18:34.110+00:00] user: 31 अगस्त तक हो जाएगा?
+[2025-08-12T14:18:34.510+00:00] assistant: Achha, toh 31 August tak aap karenge. Aur amount confirm kar doon, ek hazaar rupees theek rahega?
+[2025-08-12T14:18:47.266+00:00] user: अगर पैसा सैलरी नहीं आया तो मैं नहीं दे पाऊंगा।
+[2025-08-12T14:18:47.371+00:00] assistant: Samajh gaya. Toh hum yeh commitment kar lete hain ki agar salary aa gayi, toh 31 August tak ek hazaar ka payment ho jayega. Agar salary delay ho gayi, toh aap hume pehle inform kar dena. Theek hai?
+[2025-08-12T14:19:03.308+00:00] user: Sí.
+[2025-08-12T14:19:05.552+00:00] assistant: Great! Noted one thousand by 31 August. Please make sure to pay on time. Thank you for your time, this call will now end.

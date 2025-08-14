@@ -1,0 +1,9 @@
+{
+  "borrower_id": "XYZ",
+  "loan_account_id": "TW-551299",
+  "ptp_date": "2025-09-06",
+  "ptp_amount": 1000,
+  "delay_reason": "",
+  "negotiation_result": "Negotiated from 100 to 1000",
+  "amount_due_at_ptp": 9120
+}

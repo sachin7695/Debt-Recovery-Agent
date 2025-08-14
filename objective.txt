@@ -1,0 +1,28 @@
+Our objective
+===========
+
+As a user when I converse with the bot either in Hindi or English. 
+
+It should be able to interact with me in the same language in which 
+we started the conversation.
+
+It should be able to validate me as the right borrower.
+
+It should be able to counter with the borrower in 
+case he tried to avoid the call by giving false information.
+
+It should be able to interact with the borrower 
+regarding the outstanding loan and the emi payments.
+
+It should be able to interact with the borrower 
+to try and convince him/her to repay on immediate basis.
+
+It should be able to educate the borrower 
+about the consequences of non repayments and 
+their impact on their Credit score
+
+It should be able to record the promise 
+to pay date mentioned by the customer.
+
+It should be able to create a transcript of the 
+conversation in a txt format.

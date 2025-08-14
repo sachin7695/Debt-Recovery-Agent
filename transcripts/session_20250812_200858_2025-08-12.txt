@@ -1,0 +1,9 @@
+[2025-08-12T14:39:00.157+00:00] assistant: Namaste ji, main Raj bol raha hoon XYZ Company se. Kripya apna borrower ID batayiye.
+[2025-08-12T14:39:11.586+00:00] assistant: Aapne XYZ bola, sahi hai?
+[2025-08-12T14:39:19.184+00:00] user: Explained.
+[2025-08-12T14:39:44.507+00:00] user: Hello.
+[2025-08-12T14:39:45.527+00:00] assistant: Mujhe maafi chahiye, shayad ID galat hogi. Kripya ID dubara thoda dheere se bolenge?
+[2025-08-12T14:39:55.147+00:00] user: xyz
+[2025-08-12T14:39:55.245+00:00] assistant: Aapne XYZ bola, sahi hai?
+[2025-08-12T14:40:00.827+00:00] user: हाँ सही है।
+[2025-08-12T14:40:01.644+00:00] assistant: Mujhe afsos hai, phir bhi ID match nahi ho rahi. Main aapko ek human agent se connect kar deta hoon, wo aapki madad karenge. Dhanyawad!

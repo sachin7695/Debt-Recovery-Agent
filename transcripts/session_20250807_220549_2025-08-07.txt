@@ -1,0 +1,16 @@
+[2025-08-07T16:35:51.996+00:00] assistant: Hello!
+[2025-08-07T16:35:54.656+00:00] assistant: Am I speaking with Rahul Sharma?
+[2025-08-07T16:35:59.040+00:00] user: जी हां, मैं राहुल बोल रहा हूँ।
+[2025-08-07T16:36:16.576+00:00] assistant: Ji Rahul ji, good evening, main Raj XYZ Company se bol raha hun, actually baat yeh hai ki aapka personal loan EMI, around saade chaar hazaar ka payment jo 5 August ko due tha, main samajhta hun thoda tight chal raha hoga, chaliye dekhte hain kya kar sakte hain, theek hai? So... kitna ho payega?
+[2025-08-07T16:36:25.562+00:00] user: अभी तो मेरे पास पैसा नहीं है.
+[2025-08-07T16:36:36.797+00:00] assistant: Hmm samajh raha hun, dekhiye thoda sa payment se bhi extra charges ruk jaate hain, toh bina tension ke kitna maximum ho sakta hai? Rahul ji, sochiye araam se, chhota amount bhi chalega, bataiye kya possible hai?
+[2025-08-07T16:36:47.285+00:00] user: अभी तो सैलरी नहीं आया है मेरा।
+[2025-08-07T16:36:52.317+00:00] assistant: Achha, salary aani hai... usually kab aati hai? Month end ya fir next week tak aane ka chance hai?
+[2025-08-07T16:37:06.822+00:00] user: 31st को आता है मोस्टली.
+[2025-08-07T16:37:17.829+00:00] assistant: Theek hai, toh jab 31st ko salary aa jaye, tab payment karna comfortable rahega?  Amount bata dijiye, salary ke baad kitna rakh sakte hain payment ke liye, jo aap stress free dena chahein?
+[2025-08-07T16:37:28.737+00:00] user: दो हजार
+[2025-08-07T16:37:43.158+00:00] assistant: Theek hai, do hazaar kaafi helpful hai, agar thoda push kar ke dhai hazaar tak kar saken toh aur accha, waise do hazaar bhi chal jayega, toh confirm kar doon 31st tareekh ko do hazaar payment ho jayega na, Rahul ji?
+[2025-08-07T16:37:49.745+00:00] user: हाँ हो जायेगा।
+[2025-08-07T16:38:05.601+00:00] user: हाँ जी हो जायेगा।
+[2025-08-07T16:38:09.867+00:00] assistant: Great! Toh main note kar raha hun, 31st ko do hazaar ka payment ho jayega, please time par kar dijiyega, thank you Rahul ji, aur agar koi dikkat aaye toh mujhe bata dena, main help kar dunga, theek hai?
+[2025-08-07T16:38:41.039+00:00] user: ठीक है कर दूंगा।

@@ -1,0 +1,13 @@
+[2025-08-07T14:57:50.851+00:00] assistant: Hello Rahul Sharma, I am from xyz company.
+[2025-08-07T14:57:54.806+00:00] user: hello Raj
+[2025-08-07T14:58:01.993+00:00] assistant: Rahul Sharma ji, yeh call aapke loan ya EMI due ke baare mein hai.
+[2025-08-07T14:58:08.986+00:00] user: okay
+[2025-08-07T14:58:19.733+00:00] assistant: Rahul Sharma ji, aapka personal loan mein ₹4578 due hai jo 5 August 2025 ko due tha. Aapka last payment 10 July 2024 ko hua tha.Aap kab payment kar sakte hain? Jaldi se jaldi pay karenge toh aapka credit score safe rahega.
+[2025-08-07T14:58:38.603+00:00] user: I will pay 10 cents
+[2025-08-07T14:58:51.486+00:00] assistant: Rahul ji, aapka due amount ₹4578 hai, 10 cents se settlement possible nahi hai. Hum request karte hain ki aap genuine amount bataen jo aap pay kar sakte hain. 
+
+Aap kis date ko payment karenge?  
+Kitna amount aap us din pay karenge?  
+Payment delay ka reason kya tha?
+[2025-08-07T14:59:24.715+00:00] user: मैं 10 अवस्ट को पेमेंट कर दूंगा कितना अमांट पे करूंगा तो साइद लगबग 2425 रुपया एंड पेमेंट का डिल्य यह रीजन यह था कि मेरे पास सेलरी आया नहीं था
+[2025-08-07T14:59:35.096+00:00] assistant: Theek hai Rahul ji, humne ₹2425 ka commitment 10 August ke liye note kar liya hai. Aapne payment delay ka reason bataya ki salary nahi aayi thi.Kripya us din payment kar dijiye, taki aapka credit score safe rahe. Agar koi aur problem ho, toh aap hume bata sakte hain.Dhanyawaad! Yeh call ka outcome: aapne 10 August ko ₹2425 pay karne ka promise kiya hai.

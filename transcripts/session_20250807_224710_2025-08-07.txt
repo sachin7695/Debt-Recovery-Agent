@@ -1,0 +1,7 @@
+[2025-08-07T17:17:12.262+00:00] assistant: Hi Rahul, good evening, this is Raj from XYZ Company, so actually it’s about your personal
+[2025-08-07T17:17:19.197+00:00] user: Okay.
+[2025-08-07T17:17:18.986+00:00] assistant: Rahul ji, good evening, main Raj XYZ Company se bol raha hun, actually baat yeh hai ki aapka personal loan ka EMI, jo 5 August ko due tha, wo abhi tak clear nahi hua hai, samajh raha hun ki kabhi kabhi thoda tight chal raha hota hai, toh dekhte hain aap kya manage kar sakte hain, theek hai?
+[2025-08-07T17:17:38.871+00:00] user: কেকেজি বলে?
+[2025-08-07T17:17:38.534+00:00] assistant: Abhi tak jo amount due hai woh kareeb saade chaar hazaar ke aas paas hai, toh aap bataiye ki bina stress ke aap kitna amount abhi arrange kar sakte hain?
+[2025-08-07T17:17:54.473+00:00] user: अभी तो सेलरी नहीं आया है तो नहीं कर पाऊंगा.
+[2025-08-07T17:17:54.273+00:00] assistant: Samajh raha hun, lekin thoda sa bhi payment karne se extra charges ruk jaate hain, aap bataiye ki kuch chhota amount bhi filhal manage karna possible hoga?

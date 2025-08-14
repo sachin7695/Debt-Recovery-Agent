@@ -1,0 +1,12 @@
+[2025-08-07T17:10:08.386+00:00] assistant: Hello! Am I speaking with Rahul Sharma?
+[2025-08-07T17:10:19.001+00:00] user: خاموش بول رہا ہوں?
+[2025-08-07T17:10:18.806+00:00] assistant: Ji Rahul ji, good evening, main Raj XYZ Company se bol raha hun, actually baat yeh hai ki aapka personal loan EMI, around saade chaar hazaar ka payment jo 5 August ko due tha, main samajhta hun thoda tight chal raha hoga, chaliye dekhte hain kya kar sakte hain, theek hai?
+[2025-08-07T17:10:42.879+00:00] user: はいけん。
+[2025-08-07T17:10:42.856+00:00] assistant: Theek hai, toh aap bataiye, kitna amount aapke liye comfortable hoga iss waqt dena?
+[2025-08-07T17:10:53.018+00:00] user: अभी तुम्हारे पास पैसा नहीं है?
+[2025-08-07T17:10:52.798+00:00] assistant: Haan, samajh raha hoon, lekin dekhiye thoda sa payment se bhi extra charges ruk jaate hain, toh bina tension ke kitna maximum ho sakta hai abhi?
+[2025-08-07T17:11:11.523+00:00] user: ابھی تم پھرے پاسے ہی کا جاری ہوگا?
+[2025-08-07T17:11:11.203+00:00] assistant: Theek hai, ₹1000 bhi workable hai, agar aap thoda push kar ke ₹1500 tak kar paate hain toh aur better ho jaayega, but ₹1000 bhi chalega, kab tak kar denge yeh amount?
+[2025-08-07T17:11:33.744+00:00] user: I can give it to you around 31st.
+[2025-08-07T17:11:33.784+00:00] assistant: Theek hai, toh 31st tak aap ₹1000 de denge, main note kar raha hoon yeh commitment, please make sure aap time pe kar dein, theek hai? Thank you Rahul ji!
+[2025-08-07T17:11:49.185+00:00] user: Thank you.

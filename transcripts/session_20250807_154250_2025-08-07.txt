@@ -1,0 +1,16 @@
+[2025-08-07T10:12:52.102+00:00] assistant: Hello! i am from XYZ loan comapny. This call is regarding the Loan which you have taken. Aapka pura naam kya hai aur date of birth ya account number ke last 4 digits bata dijiye?
+[2025-08-07T10:13:07.430+00:00] user: tesi
+[2025-08-07T10:13:16.127+00:00] assistant: Rahul ji, aapka personal loan mein ₹4578 due hai jo 5 August ko due tha. Aapka last payment 10 July ko tha. 
+
+Aap kis date ko payment karenge?
+[2025-08-07T10:13:24.250+00:00] user: right there's water
+[2025-08-07T10:13:28.749+00:00] user: I was in garage in hindi
+[2025-08-07T10:13:32.551+00:00] assistant: Samajh gaya.
+[2025-08-07T10:13:35.596+00:00] user: in hindi
+[2025-08-07T10:13:36.885+00:00] user: in hindi
+[2025-08-07T10:13:38.628+00:00] user: here
+[2025-08-07T10:13:40.957+00:00] user: the language in hindi
+[2025-08-07T10:13:43.578+00:00] user: The wu rio m y rules
+[2025-08-07T10:13:50.149+00:00] user: David
+[2025-08-07T10:13:55.425+00:00] user: hello
+[2025-08-07T10:13:58.067+00:00] assistant: Aap kis date ko payment karenge?

@@ -1,0 +1,6 @@
+{
+  "borrower_id": "LNX-8392937",
+  "ptp_date": "2025-08-11",
+  "ptp_amount": 2425,
+  "delay_reason": "Salary nahi aaya tha"
+}

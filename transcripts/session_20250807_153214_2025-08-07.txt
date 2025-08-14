@@ -1,0 +1,14 @@
+[2025-08-07T10:02:17.531+00:00] assistant: Hello! I am from XYZ loan company. This call is regarding the Loan which you have taken.
+[2025-08-07T10:02:30.505+00:00] user: yeah
+[2025-08-07T10:02:31.930+00:00] user: my name is Sachin
+[2025-08-07T10:02:35.583+00:00] user: but then
+[2025-08-07T10:02:40.445+00:00] user: you
+[2025-08-07T10:02:43.999+00:00] user: it
+[2025-08-07T10:02:46.025+00:00] user: i think
+[2025-08-07T10:02:48.582+00:00] assistant: Aapka pura naam kya hai aur date of birth ya account number ke last 4 digits bata dijiye?
+[2025-08-07T10:02:51.292+00:00] user: lis us
+[2025-08-07T10:02:52.681+00:00] user: this
+[2025-08-07T10:02:56.338+00:00] assistant: Mujhe maaf kariye, lekin mujhe aapki verify information chahiye.
+[2025-08-07T10:02:57.854+00:00] user: it's the word
+[2025-08-07T10:02:59.599+00:00] user: it's
+[2025-08-07T10:03:02.717+00:00] assistant: Aapka pura naam kya hai aur date of birth ya account number ke last 4 digits bata dijiye?

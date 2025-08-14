@@ -1,0 +1,8 @@
+{
+  "borrower_id": "LNX-8392937",
+  "ptp_date": "2025-09-04",
+  "ptp_amount": 2000,
+  "delay_reason": "Waiting for salary",
+  "negotiation_result": "Started with 1000, borrower agreed for 2000 post salary",
+  "percentage_of_due": 43.69
+}

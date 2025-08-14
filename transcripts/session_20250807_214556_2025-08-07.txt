@@ -1,0 +1,6 @@
+[2025-08-07T16:15:59.492+00:00] assistant: Hello! Am I speaking with Rahul Sharma?
+[2025-08-07T16:16:06.066+00:00] user: हाँ राहूल सर्मा बोल रहा हूं है
+[2025-08-07T16:16:11.510+00:00] assistant: Ji Rahul ji, good evening...
+[2025-08-07T16:16:15.809+00:00] assistant: main Raj, XYZ Company se bol raha hun. Actually baat yeh hai ki aapka personal loan EMI... around saade chaar hazaar ka payment jo 5 August ko due tha. Main samajhta hun thoda tight chal raha hoga... chaliye dekhte hain kya kar sakte hain, theek hai?Toh... kitna ho payega?
+[2025-08-07T16:16:36.145+00:00] user: अब भी तो पैसा नहीं है सालरी नहीं आया है
+[2025-08-07T16:16:51.570+00:00] assistant: Hmm, samajh raha hun Rahul ji... achha, salary aani hai abhi. Usually kab aati hai aapki salary? Month end ya kuch specific date pe?

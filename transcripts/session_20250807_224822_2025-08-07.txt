@@ -1,0 +1,13 @@
+[2025-08-07T17:18:24.055+00:00] assistant: Hi Rahul, good evening, this is Raj from XYZ Company, so actually it’s about your personal loan EMI, the payment of around forty-five hundred rupees that was due on August 5th, I totally understand it may be tight right now, so let’s see what we can work out, okay?
+[2025-08-07T17:18:48.703+00:00] user: हाँ बोले मेरे पास अभी पैसा नहीं है तो इसलिए मैं नहीं कर पा रहा हूँ।
+[2025-08-07T17:18:48.706+00:00] assistant: Haan, samajh raha hoon, dekhiyega thoda bhi payment se extra charges ruk jaate hain, bina stress ke bataiye kitna aap abhi comfortable se manage kar sakte hain? Thoda amount bhi chalega, kuch toh start ho jaye.
+[2025-08-07T17:19:07.864+00:00] user: सैलरी नहीं आया अभी तक, इसलिए नहीं कर पा रहा हूं, मैं सैलरी आने से ही दे पाऊंगा।
+[2025-08-07T17:19:07.787+00:00] assistant: Haan, samajh raha hoon. Salary delay ho gayi hai, koi baat nahi. Aap bata sakte hain salary kab tak expected hai? Fir hum uske hisaab se ek date rakh lete hain. Kitna time lagega?
+[2025-08-07T17:19:25.004+00:00] user: सैलरी आएगा 31st अगस्त के आसपास.
+[2025-08-07T17:19:25.066+00:00] assistant: Theek hai, toh 31 August ke aaspaas salary aayegi. Achha, us time tak aap kitna amount manage kar paayenge? Kam se kam ek hazaar ya usse zyada kuch ho paayega tab tak?
+[2025-08-07T17:19:53.065+00:00] user: डेढ़ हजार के आसपास हो जाएगा.
+[2025-08-07T17:19:52.103+00:00] assistant: Theek hai, ek hazaar ya pandrahso ke aaspaas manageable hai. Yeh amount helpful rahega. Toh main note kar loon ki 31 August tak aap itna karenge. Iske baad baaki ka bhi hum dekh lenge. Toh main 31 August aur yeh amount note kar raha hoon. Theek hai?
+[2025-08-07T17:20:17.887+00:00] user: ठीक है, लेकिन अगर पैसा डिले हुआ तो मेरा पेमेंट भी डिले हो सकता है।
+[2025-08-07T17:20:18.068+00:00] assistant: Bilkul, agar salary delay hoti hai, toh main samajhta hoon. Lekin abhi hum ek tentative commitment rakh lete hain. Agar koi delay hota hai, aap bas humein bata dena. Abhi 31 August tak pandrahso note kar raha hoon, apni taraf se koshish karna. Theek hai?
+[2025-08-07T17:20:39.523+00:00] user: Chicken bye.
+[2025-08-07T17:20:41.384+00:00] assistant: Great! Noted down ₹1500 by 31 August. Thank you for your time, this call will now end.

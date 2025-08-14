@@ -1,0 +1,18 @@
+[2025-08-07T16:23:34.838+00:00] assistant: Hello! Am I speaking with Rahul Sharma?
+[2025-08-07T16:23:41.339+00:00] user: हाँ जी मैं रहूल सर्मा बोल रहा हूँ
+[2025-08-07T16:23:48.400+00:00] assistant: Ji Rahul ji, good evening... main Raj, XYZ Company se bol raha hun. Actually baat yeh hai ki aapka personal loan EMI... around saade chaar hazaar ka payment jo 5 August ko due tha. Main samajhta hun thoda tight chal raha hoga... chaliye dekhte hain kya kar sakte hain, theek hai?So... kitna ho payega?
+[2025-08-07T16:24:11.342+00:00] user: अब ही तो पैसा नहीं है मेरे पास।
+[2025-08-07T16:24:18.833+00:00] assistant: Hmm, samajh raha hun Rahul ji... actually, thoda sa payment se bhi extra charges ruk jaate hain. Bina tension ke, aap batao kitna maximum ho sakta hai iss waqt? Main samjhne ki koshish kar raha hun, jo bhi aapke liye comfortable ho...
+[2025-08-07T16:24:41.001+00:00] user: एक हजार हो सकता है
+[2025-08-07T16:24:46.178+00:00] assistant: Theek hai, ek hazaar... achha hai, start ke liye chalega. Lekin agar dhyaan se dekhen toh saade chaar hazaar due hai, toh thoda push kar ke dhai hazaar tak kar paoge toh aur bhi achha ho jayega. Phir bhi, ek hazaar bhi chalega. Rahul ji, kab tak kar doge yeh payment?
+[2025-08-07T16:25:05.520+00:00] user: अभी तो salary नहीं आया है, salary आने के बाद ही करूँगा.
+[2025-08-07T16:25:09.541+00:00] assistant: Achha, salary aani hai... usually kab aati hai, month end ya phir first week mein? Theek se bata do, toh main bhi note kar lu. 
+
+Jab salary aa jaye, tab kitna comfortable rahega payment karne mein—wahi ek hazaar ya kuch aur soch rahe ho?
+[2025-08-07T16:25:26.843+00:00] user: 2000 कर दूंगा
+[2025-08-07T16:25:31.838+00:00] assistant: Theek hai, do hazaar... kaafi help ho jayega. Rahul ji, salary kis date ko expected hai—maan lo, ek tarikh ya paanch tarikh ke aas paas? Toh ek idea de do, kis din tak payment ho jayega?
+[2025-08-07T16:25:46.292+00:00] user: Vannst það rykkja aspas?
+[2025-08-07T16:25:55.521+00:00] assistant: Rahul ji, maaf kijiye, main aapki baat samajh nahi paaya. Thoda clear bata sakte hain? Salary aane ke baad aapne jo do hazaar bola, wo kis date tak kar denge?
+[2025-08-07T16:26:06.253+00:00] user: चार तारिखों कर दूंगा
+[2025-08-07T16:26:12.238+00:00] assistant: Great, Rahul ji! Main note kar raha hoon—do hazaar rupaye aap 4 tarikh tak kar denge. Please koshish kijiyega ki time se ho jaye, taaki aur extra charges na lage. Thank you bolne ke liye aur cooperation ke liye, theek hai?
+[2025-08-07T16:26:30.608+00:00] user: तेंक यू
